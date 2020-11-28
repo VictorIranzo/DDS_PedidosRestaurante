@@ -25,19 +25,35 @@ This layer is implemented following a service structure and using the Spring fra
 ## Decorator Pattern
 It is applied for creating a Dish and add toppings to it:
 
+![](docs/models/restaurante/decorator_pattern.png)
+
+
 ## State Pattern
 It is applied for managing the different states of an order:
+
+![](docs/models/restaurante/state_pattern.png)
 
 ## Command Pattern
 It is used to assign the orders that must be attended by each employee:
 
+![](docs/models/restaurante/command_pattern.png)
+
 ## Composite Pattern
 It is used to handle the shopping list:
+
+![](docs/models/almacen/UMLListaCompra.png)
 
 ## Service Locator Pattern
 It is used for managing the Persistence layer using Spring Boot and the AutoWire notation:
 
+![](docs/models/Modelo_Patrón_Service.png)
+
 # Some user interfaces
 
+![](docs/ui/orders.png)
+![](docs/ui/new_order.png)
+![](docs/ui/products.png)
+![](docs/ui/shopping_list.png)
+
 # More information ...
-More information related with Design, Unit Tests or Refactorings can be obtained from the following document:
+More information related with Design, Unit Tests or Refactorings can be obtained from the following [document](docs/MemoryProject.pdf).
