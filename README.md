@@ -1,3 +1,5 @@
+# DDS_PedidosRestaurante
+(Developed during the CS Degree) A Java Desktop application for managing a Restaurant, in terms of orders and stocks, applying some Design Patterns.
 
 # Introduction 
 This is a project developed during the third year of the Degree in Computer Science Engineering. The project that we have developed consists of an application, divided into 2 large modules: the Restaurant module and the Warehouse module. The first consists of managing customer orders and the second is managing the restaurant's warehouse. The project has been developed using Java. Many design patterns and good practices, like Unit Testing, have been applied.
